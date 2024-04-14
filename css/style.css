@@ -1,0 +1,10 @@
+
+/* Justifica o texto */
+.text-left {
+    text-align: justify;
+}
+
+/* Alinha as linhas dos parágrafos */
+.text-left p {
+    text-align: justify;
+}
