@@ -1,39 +1,17 @@
-# Portfólio de Ângelo Silvano
+## Portfólio 
 
-## Sobre
+## 📌 Introdução
+Bem-vindo ao Portfólio de Ângelo Silvano! Este projeto tem como objetivo apresentar informações detalhadas sobre Ângelo Silvano, um desenvolvedor web, e seus trabalhos mais recentes. A seguir, você encontrará instruções sobre como navegar no portfólio e explorar suas funcionalidades.
 
-Este é o portfólio de Ângelo Silvano, um jovem desenvolvedor web. Aqui você encontrará informações sobre sua formação acadêmica, habilidades, projetos recentes e como entrar em contato com ele.
+## Objetivos
+O principal objetivo deste projeto é fornecer uma plataforma interativa e informativa onde os visitantes possam:
 
-## Tecnologias Utilizadas
+* Conhecer Ângelo Silvano: Descubra quem é Ângelo, sua formação educacional, habilidades técnicas e interpessoais.
+* Explorar Projetos: Navegue pelos projetos mais recentes de Ângelo, visualizando detalhes e links para acessá-los.
+* Entrar em Contato: Entre em contato com Ângelo e conecte-se com ele através de suas redes sociais.
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 4
-- Font Awesome
-
-## Estrutura do Projeto
-
-- `index.html`: Página inicial do portfólio.
-- `css/style.css`: Arquivo de estilos personalizados.
-- `image/`: Pasta contendo as imagens utilizadas no projeto.
-
-## Como Executar
-
-Basta abrir o arquivo `index.html` em qualquer navegador web moderno.
-
-## Conteúdo
-
-- **Sobre**: Informações sobre Ângelo Silvano.
-- **Educação e Formação**: Detalhes sobre sua formação acadêmica e cursos.
-- **Habilidades**: Lista das habilidades técnicas e interpessoais.
-- **Projetos**: Exemplos de projetos desenvolvidos por Ângelo Silvano, com links para visualização.
-- **Contato e Redes Sociais**: Formulário de contato e links para suas redes sociais.
-
-## Autor
-
-- Ângelo Silvano - Desenvolvedor Web - [GitHub](https://github.com/angelodesenvolvedor) - [LinkedIn](https://www.linkedin.com/in/angelosilvanno/)
-
-## Licença
-
-* Este projeto está licenciado sob a [Licença XYZ](LICENSE.md) - consulte o arquivo LICENSE.md para mais detalhes.
+## Funcionalidades
+Navegação Suave: Utilize a barra de navegação para acessar diferentes seções do portfólio.
+Detalhes sobre Ângelo: Leia uma breve descrição sobre Ângelo e sua abordagem no desenvolvimento web.
+Exibição de Projetos: Explore uma seleção dos projetos mais recentes de Ângelo, incluindo descrições e links para visualizá-los.
+Formulário de Contato: Entre em contato com Ângelo através do formulário de contato e conecte-se com ele em suas redes sociais.
