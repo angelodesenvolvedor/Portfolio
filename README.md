@@ -25,3 +25,8 @@ O Portfólio de Ângelo Silvano foi desenvolvido utilizando as seguintes tecnolo
 * **Bootstrap 4**: Framework front-end para facilitar o desenvolvimento responsivo e a criação de layouts.
 * **Font Awesome**: Biblioteca de ícones para adicionar ícones visuais ao site.
 * **JavaScript**: Linguagem de programação para adicionar interatividade e funcionalidades dinâmicas ao site.
+  
+## 👷 Autor
+* **Angelo Silvano** - *Front-End Developer* - angelodesenvolvedor
+📄 Licença
+Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.
