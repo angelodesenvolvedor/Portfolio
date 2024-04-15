@@ -28,7 +28,7 @@ O Portfólio de Ângelo Silvano foi desenvolvido utilizando as seguintes tecnolo
   
 ## 👷 Autor
 
-* **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Front-End Developer* - [angelodesevolvedor](https://github.com/angelodesenvolvedor)
   
 ## 📄 Licença
 * Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Portfolio?tab=MIT-1-ov-file).
