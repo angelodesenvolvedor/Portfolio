@@ -26,7 +26,7 @@ O Portfólio de Ângelo Silvano foi desenvolvido utilizando as seguintes tecnolo
 * **Font Awesome**: Biblioteca de ícones para adicionar ícones visuais ao site.
 * **JavaScript**: Linguagem de programação para adicionar interatividade e funcionalidades dinâmicas ao site.
   
-## 👷 Autor
+## 🧑🏽‍💻 Autor
 
 * **Angelo Silvano** - *Front-End Developer* - [angelodesevolvedor](https://github.com/angelodesenvolvedor)
   
