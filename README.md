@@ -27,6 +27,8 @@ O Portfólio de Ângelo Silvano foi desenvolvido utilizando as seguintes tecnolo
 * **JavaScript**: Linguagem de programação para adicionar interatividade e funcionalidades dinâmicas ao site.
   
 ## 👷 Autor
-* **Angelo Silvano** - *Front-End Developer* - angelodesenvolvedor
-📄 Licença
-Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.
+
+* **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+  
+## 📄 Licença
+* Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
