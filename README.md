@@ -16,3 +16,12 @@ O principal objetivo deste projeto é fornecer uma plataforma interativa e infor
 * **Detalhes sobre Ângelo**: Leia uma breve descrição sobre Ângelo e sua abordagem no desenvolvimento web.
 * **Exibição de Projetos**: Explore uma seleção dos projetos mais recentes de Ângelo, incluindo descrições e links para visualizá-los.
 * **Formulário de Contato**: Entre em contato com Ângelo através do formulário de contato e conecte-se com ele em suas redes sociais.
+
+## Tecnologias Utilizadas
+O Portfólio de Ângelo Silvano foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
+
+HTML5: Linguagem de marcação para estruturar o conteúdo do site.
+CSS3: Folhas de estilo para estilizar e personalizar a aparência do site.
+Bootstrap 4: Framework front-end para facilitar o desenvolvimento responsivo e a criação de layouts.
+Font Awesome: Biblioteca de ícones para adicionar ícones visuais ao site.
+JavaScript: Linguagem de programação para adicionar interatividade e funcionalidades dinâmicas ao site.
