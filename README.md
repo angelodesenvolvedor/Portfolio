@@ -11,7 +11,8 @@ O principal objetivo deste projeto é fornecer uma plataforma interativa e infor
 * Entrar em Contato: Entre em contato com Ângelo e conecte-se com ele através de suas redes sociais.
 
 ## Funcionalidades
-Navegação Suave: Utilize a barra de navegação para acessar diferentes seções do portfólio.
-Detalhes sobre Ângelo: Leia uma breve descrição sobre Ângelo e sua abordagem no desenvolvimento web.
-Exibição de Projetos: Explore uma seleção dos projetos mais recentes de Ângelo, incluindo descrições e links para visualizá-los.
-Formulário de Contato: Entre em contato com Ângelo através do formulário de contato e conecte-se com ele em suas redes sociais.
+
+* **Navegação Suave**: Utilize a barra de navegação para acessar diferentes seções do portfólio.
+* **Detalhes sobre Ângelo**: Leia uma breve descrição sobre Ângelo e sua abordagem no desenvolvimento web.
+* **Exibição de Projetos**: Explore uma seleção dos projetos mais recentes de Ângelo, incluindo descrições e links para visualizá-los.
+* **Formulário de Contato**: Entre em contato com Ângelo através do formulário de contato e conecte-se com ele em suas redes sociais.
